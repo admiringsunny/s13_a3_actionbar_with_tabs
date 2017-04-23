@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ActionbarWithTabs</string>
+
+    <string-array name="tab_names">
+        <item>Audio</item>
+        <item>Video</item>
+    </string-array>
+
+    <string name="audio_fragment_text">This is Audio Fragment Sample.</string>
+    <string name="video_fragment_text">This is Video Fragment Sample.</string>
+</resources>
